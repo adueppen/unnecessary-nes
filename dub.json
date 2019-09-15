@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Alex ​Dueppen"
+	],
+	"copyright": "Copyright © 2019, Alex ​Dueppen",
+	"dependencies": {
+		"gtk-d": "~>3.9.0"
+	},
+	"description": "There's already plenty out there, so why not another NES/Famicom emulator?",
+	"license": "MIT",
+	"name": "unnecessary-nes"
+}
